@@ -13,6 +13,8 @@ If any other errors occur during the retrieval of the IP address information, th
 
 This script can be useful for anyone who needs to retrieve and display geolocation information for a specific IP address. It can be used for a variety of purposes, such as analyzing website traffic, identifying the location of network attacks, and more.
 
+Unpack GeoLite2-City.part1 and GeoLite2-City.part2
+
 pip -r requirements.txt 
 
 python iplocator.py
