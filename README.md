@@ -1,4 +1,4 @@
-Here's how the code works:
+<h2> Here's how the code works: <h2/>
 
 The script prompts the user to enter an IP address.
 
